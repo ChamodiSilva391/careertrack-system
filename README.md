@@ -3,6 +3,8 @@
 
 CareerTrack is a modern web application built for job seekers, university graduates, and software engineers to seamlessly track job applications, multi-round technical interviews, and recruitment pipelines with real-time cloud synchronization.
 
+🌐 **Live Demo:** [https://chamodisilva391.github.io/careertrack-system/](https://chamodisilva391.github.io/careertrack-system/)
+
 ---
 
 ## ✨ Features
@@ -29,8 +31,8 @@ CareerTrack is a modern web application built for job seekers, university gradua
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ChamodiSilva391/careertrack.git
-cd careertrack
+git clone https://github.com/ChamodiSilva391/careertrack-system.git
+cd careertrack-system
 ```
 
 ### 2. Install dependencies
